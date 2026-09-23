@@ -12,11 +12,11 @@ The behind-the-scenes engine for a money-transfer app, focused on keeping people
 
 When you send money in a banking app, a lot happens behind the scenes that you never see. This project builds that hidden part: the **"back end"** that the app talks to. It doesn't have screens or buttons. Its job is to make sure that:
 
-- ✅ **Only you can get into your account.**
-- ✅ **Sending money needs an extra check.** Being logged in isn't enough. You have to confirm it's really you again, right before the payment, the way many banking apps ask for your fingerprint.
-- ✅ **Money is never lost or created by mistake**, even if thousands of people send money at the same moment.
-- ✅ **Nobody gets charged twice.** If your internet drops and the app retries, or you tap "Send" twice, the money only moves once.
-- ✅ **Every payment is permanently recorded**, like a receipt book whose pages can't be torn out.
+- **Only you can get into your account.**
+- **Sending money needs an extra check.** Being logged in isn't enough. You have to confirm it's really you again, right before the payment, the way many banking apps ask for your fingerprint.
+- **Money is never lost or created by mistake**, even if thousands of people send money at the same moment.
+- **Nobody gets charged twice.** If your internet drops and the app retries, or you tap "Send" twice, the money only moves once.
+- **Every payment is permanently recorded**, like a receipt book whose pages can't be torn out.
 
 ## How it keeps money safe (in plain words)
 
